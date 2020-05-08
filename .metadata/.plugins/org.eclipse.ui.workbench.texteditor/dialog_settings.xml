@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="backGround"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="backGround"/>
+			<item value="txtId"/>
+			<item value="contentPane"/>
+			<item value="BackImg"/>
+			<item value="img"/>
+			<item value="icon"/>
+			<item value="system.out"/>
+			<item value="dispose"/>
+			<item value="pack"/>
+			<item value="ClickerUserVO"/>
+			<item value="vo"/>
+			<item value="setDefaultCloseOperation(dao.saveUser());"/>
+			<item value="JPanel paneOreAndHpBord"/>
+			<item value="score"/>
+			<item value="mouse"/>
+		</list>
+		<list key="replacehistory">
+			<item value="mainPane"/>
+			<item value="Pickax."/>
+			<item value="Pick."/>
+			<item value="Pick"/>
+			<item value="Copper"/>
+			<item value="copper"/>
+			<item value=".addActionListener(this);"/>
+			<item value="GameVO"/>
+			<item value=""/>
+			<item value="UserVO2"/>
+			<item value="addr"/>
+			<item value="username"/>
+			<item value="birthYear"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1318"/>
+		<item key="DIALOG_Y_ORIGIN" value="520"/>
+		<item key="DIALOG_WIDTH" value="288"/>
+		<item key="DIALOG_HEIGHT" value="390"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

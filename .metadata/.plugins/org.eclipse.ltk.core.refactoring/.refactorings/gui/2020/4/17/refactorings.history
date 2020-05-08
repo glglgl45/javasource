@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HpBar.java&apos; to &apos;project/src/system&apos;&#x0D;&#x0A;- Original project: &apos;gui&apos;&#x0D;&#x0A;- Destination element: &apos;project/src/system&apos;&#x0D;&#x0A;- Original element: &apos;graphic.HpBar.java&apos;" description="Copy compilation unit" destination="=project/src&lt;system" element1="/src&lt;graphic{HpBar.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1587715187588" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=ch5/src&lt;ch5{Tv.java[Tv" modifiers="1" timestamp="1581574846167"/>
+<typeInfo handle="=ch5/src&lt;ch5{CellPhone.java[CellPhone" modifiers="1" timestamp="1581579949222"/>
+<typeInfo handle="=ch5/src&lt;inherit{CellPhone.java[CellPhone" modifiers="1" timestamp="1581581143287"/>
+<typeInfo handle="=ch5/src&lt;inherit{CheckingAccount.java[CheckingAccount" modifiers="1" timestamp="1581581615156"/>
+<typeInfo handle="=ch5/src&lt;inherit{Account.java[Account" modifiers="1" timestamp="1581581149113"/>
+<typeInfo handle="=ch5/src&lt;inherit{ListString.java[ListString" modifiers="1" timestamp="1581663791844"/>
+<typeInfo handle="=ch5/src&lt;inherit{Calculator.java[Calculator" modifiers="1" timestamp="1581664622246"/>
+<typeInfo handle="=ch5/src&lt;inherit{Car.java[Car" modifiers="1" timestamp="1581665341055"/>
+<typeInfo handle="=ch5/src&lt;inherit{Unit.java[Unit" modifiers="1" timestamp="1581667386927"/>
+<typeInfo handle="=ch5/src&lt;poly{Canine.java[Canine" modifiers="1" timestamp="1581916387723"/>
+<typeInfo handle="=ch5/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.beans(FeatureDescriptor.class[FeatureDescriptor" modifiers="33" timestamp="1579759567787"/>
+<typeInfo handle="=ch5/src&lt;poly{Feline.java[Feline" modifiers="1" timestamp="1581916437721"/>
+<typeInfo handle="=ch5/src&lt;poly{Employee.java[Employee" modifiers="1" timestamp="1581922798982"/>
+<typeInfo handle="=ch5/src&lt;poly{Vehicle.java[Vehicle" modifiers="1" timestamp="1581925361511"/>
+<typeInfo handle="=ch5/src&lt;poly{Tire.java[Tire" modifiers="1" timestamp="1582002203714"/>
+<typeInfo handle="=ch5/src&lt;abstract_class{Account.java[Account" modifiers="1025" timestamp="1582006287643"/>
+<typeInfo handle="=ch5/src&lt;abstract_class{Player.java[Player" modifiers="1025" timestamp="1582009297161"/>
+<typeInfo handle="=ch5/src&lt;poly{Animal.java[Animal" modifiers="1" timestamp="1581916239615"/>
+<typeInfo handle="=ch5/src&lt;abstract_class{Animal.java[Animal" modifiers="1025" timestamp="1582009963281"/>
+<typeInfo handle="=ch5/src&lt;inherit{Tv.java[Tv" modifiers="1" timestamp="1582012847694"/>
+<typeInfo handle="=ch5/src&lt;other{Parent.java[Parent" modifiers="1" timestamp="1582088231759"/>
+<typeInfo handle="=ch6/src&lt;ch6{A.java[A" modifiers="513" timestamp="1582090009681"/>
+<typeInfo handle="=ch6/src&lt;ch6{RemoteControl.java[RemoteControl" modifiers="513" timestamp="1582093465959"/>
+<typeInfo handle="=ch6/src&lt;ch6{Searchable.java[Searchable" modifiers="513" timestamp="1582092746807"/>
+<typeInfo handle="=ch6/src&lt;ch6{Moveable.java[Moveable" modifiers="513" timestamp="1582093503353"/>
+<typeInfo handle="=ch6/src&lt;ch6{Attackable.java[Attackable" modifiers="513" timestamp="1582093725986"/>
+<typeInfo handle="=ch6/src&lt;ch6{Fightable.java[Fightable" modifiers="513" timestamp="1582093682353"/>
+<typeInfo handle="=ch6/src&lt;ch6{CDInfo.java[CDInfo" modifiers="1" timestamp="1582095682225"/>
+<typeInfo handle="=ch6/src&lt;ch6{Lendable.java[Lendable" modifiers="513" timestamp="1582094871530"/>
+<typeInfo handle="=ch6/src&lt;ch6{Soundable.java[Soundable" modifiers="513" timestamp="1582098185481"/>
+<typeInfo handle="=ch6/src&lt;ch6{DataAccessObject.java[DataAccessObject" modifiers="513" timestamp="1582098721316"/>
+<typeInfo handle="=shop/src&lt;shop{IShop.java[IShop" modifiers="513" timestamp="1582179764497"/>
+<typeInfo handle="=ch7/src&lt;ch7{Animal.java[Animal" modifiers="1" timestamp="1582271568362"/>
+<typeInfo handle="=ch7/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1579759567787"/>
+<typeInfo handle="=user/src&lt;action{Action.java[Action" modifiers="513" timestamp="1584335794508"/>
+<typeInfo handle="=book/src&lt;action{Action.java[Action" modifiers="513" timestamp="1584421738072"/>
+<typeInfo handle="=ch12/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1579759567787"/>
+<typeInfo handle="=ch12/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1579759567787"/>
+<typeInfo handle="=ch12/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1579759567787"/>
+<typeInfo handle="=student/src&lt;student{Action.java[Action" modifiers="513" timestamp="1584685804228"/>
+<typeInfo handle="=gui/C:\/Program Files\/Java\/jdk1.8.0_241\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;javax.swing(JFrame.class[JFrame" modifiers="33" timestamp="1579759567787"/>
+</typeInfoHistroy>
